@@ -14,7 +14,7 @@ body, .wrapper, .content{
 body{
   padding: 0 10px;
   min-height: 100vh;
-  background: #4A98F7;
+  background: #11043c;
 }
 .wrapper{
   width: 440px;
@@ -68,5 +68,5 @@ body{
   padding: 17px 0;
   margin-top: 20px;
   border-radius: 5px;
-  background: #4A98F7;
+  background: #8e0833;
 }
